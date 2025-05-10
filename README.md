@@ -1,6 +1,6 @@
 # PushClash - GitHub Profile & Portfolio Analyzer
 
-![PushClash Logo](src/assets/logo.png)
+![Image](https://github.com/user-attachments/assets/076dd881-070c-47d3-9bb4-1340418bd5f9)
 
 PushClash is an interactive web application that helps developers analyze GitHub profiles, compare users head-to-head, and receive insightful feedback on portfolio websites - all with a twist of humor and roasting.
 
